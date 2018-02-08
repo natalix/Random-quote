@@ -6,5 +6,6 @@ I have used:
 - CSS
 - jQuery
 - AJAX
+- API
 
 [Live view](http://http://nataliamazurczak.pl/Random-quote/)
