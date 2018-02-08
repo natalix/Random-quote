@@ -8,4 +8,5 @@ I have used:
 - AJAX
 - API
 
-[Live view](http://http://nataliamazurczak.pl/Random-quote/)
+[Live view](http://nataliamazurczak.pl/Random-quote/)
+
